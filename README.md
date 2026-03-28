@@ -23,7 +23,7 @@ This model was created as a basic exercise to understand CAD tools and workflow.
 
 ![Washer](images/flat_washer.png)  
 ![Measurement](images/flat_washer_measurement.png)  
-![Real](images/real_flat_washer.HEIC)
+![Real](images/real_flat_washer.jpg)
 
 **Description:**  
 A real washer was measured and recreated as a 3D model with accurate dimensions.
@@ -39,7 +39,7 @@ A real washer was measured and recreated as a 3D model with accurate dimensions.
 
 ![Switch](images/light_switch.png)  
 ![Measurement](images/light_switch_measurement.png)  
-![Real](images/real_light_switch.HEIC)
+![Real](images/real_light_switch.jpg)
 
 **Description:**  
 Designed a light switch frame based on real measurements and structure.
@@ -55,7 +55,7 @@ Designed a light switch frame based on real measurements and structure.
 
 ![Servo](images/servo_cover.png)  
 ![Measurement](images/servo_cover_measurement.png)  
-![Real](images/real_servo.HEIC)
+![Real](images/real_servo.jpg)
 
 
 **Description:**  
